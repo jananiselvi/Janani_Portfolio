@@ -1,4 +1,4 @@
-﻿import { DATA } from "@/data/resume";
+import { DATA } from "@/data/resume";
 import { NextResponse } from "next/server";
 
 export async function GET() {
@@ -12,7 +12,7 @@ export async function GET() {
   lines.push("Email   : " + d.contact.email);
   lines.push("Phone   : " + d.contact.tel);
   lines.push("LinkedIn: " + d.contact.social.LinkedIn.url);
-  lines.push("Behance : " + d.contact.social.Behance.url);
+  lines.push("Behance : " + d.contact.social.Instagram.url);
   lines.push("GitHub  : " + d.contact.social.GitHub.url);
   lines.push("============================================================");
   lines.push("");

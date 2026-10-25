@@ -192,15 +192,11 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
-          href: "https://magicui.design",
+          type: "Design Link",
+          href: "#",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
-        },
+
       ],
       image: "/project/landing.png",
       video: "",

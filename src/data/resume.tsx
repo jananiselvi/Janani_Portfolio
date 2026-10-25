@@ -45,7 +45,7 @@ export const DATA = {
     email: "j.jananiram@gmail.com",
     tel: "+918610817676",
     social: {
-      Instagram: {
+      Behance: {
         name: "behance",
         url: "https://www.behance.net/jjananjegadee",
         icon: Icons.behance,

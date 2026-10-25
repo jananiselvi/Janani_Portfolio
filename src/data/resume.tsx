@@ -100,7 +100,6 @@ export const DATA = {
       description9: "",
 
       description10: "Developed responsive web interfaces using HTML, CSS, and JavaScript. Focused on creating clean layouts, implementing interactive elements, and ensuring a consistent user experience across different screen sizes. Collaborated with the team to translate design concepts into functional web pages.",
-
     },
   ],
   education: [
@@ -198,7 +197,7 @@ export const DATA = {
         },
 
       ],
-      image: "/project/landing.png",
+      image: "/Project/landing.png",
       video: "",
     },
     {

@@ -123,8 +123,8 @@ export const DATA = {
       href: "",
       degree: "Grade X Secondary School Certificate (SSC)",
       logoUrl: "",
-      start: "2019",
-      end: "2020",
+      start: "2018",
+      end: "2019",
     },
 
   ],

@@ -252,7 +252,7 @@ export const DATA = {
     {
       title: "E-Commerce Website",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed and developed a responsive e-commerce website using HTML, CSS, and JavaScript. Created an intuitive user interface with product listings, product details, category filtering, search functionality, shopping cart management, and interactive buttons. Focused on providing a smooth shopping experience with a clean layout, responsive design, and user-friendly navigation across desktop, tablet, and mobile devices.",
@@ -279,7 +279,7 @@ export const DATA = {
     {
       title: "Car Landing Page",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed and developed a modern, responsive car landing page using HTML, CSS, and JavaScript. Showcased vehicle specifications, featured models, pricing details, high-quality car images, and call-to-action buttons. Implemented interactive navigation, smooth scrolling, engaging visual elements, and responsive layouts to create an attractive and professional automotive website.",
@@ -306,7 +306,7 @@ export const DATA = {
     {
       title: "Expense Tracker",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Built an interactive expense tracker application using HTML, CSS, and JavaScript to help users manage their personal finances. Implemented features to add, edit, and delete income and expense records, calculate the total balance, and display transaction history. Used JavaScript to dynamically update financial summaries and local storage to preserve transaction data between browser sessions.",
@@ -333,7 +333,7 @@ export const DATA = {
     {
       title: "To-Do Application",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         " Developed a responsive to-do application using HTML, CSS, and JavaScript to help users organize and manage daily tasks efficiently. Implemented functionality to add, edit, delete, and mark tasks as completed. Included task status management, a clean user interface, and local storage to save tasks, allowing users to access their task lists even after refreshing the page.",
@@ -360,7 +360,7 @@ export const DATA = {
     {
       title: "Weather Application",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         " Designed and developed a weather application using HTML, CSS, and JavaScript to display real-time weather information for different locations. Integrated a weather API to retrieve current weather conditions, temperature, humidity, wind speed, and weather forecasts. Implemented city-based search, dynamic weather icons, loading states, and responsive layouts to deliver a simple and user-friendly weather experience.",
@@ -387,7 +387,7 @@ export const DATA = {
     {
       title: "Smart Calculator Application",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         " Developed a smart calculator application using HTML, CSS, and JavaScript to perform basic arithmetic calculations through an interactive interface. Implemented addition, subtraction, multiplication, division, percentage calculations, decimal operations, and clear and delete functions. Used JavaScript to handle user input, process calculations, manage errors, and update results dynamically while ensuring a responsive and easy-to-use design. ",
@@ -412,138 +412,5 @@ export const DATA = {
       video: "",
     },
   ],
-  hackathons: [
-    {
-      title: "Product AI",
-      dates: "2024",
-      location: "Chennai, Tamil Nadu",
-      description:
-        "Created 'Product AI,' a comprehensive website designed to help users compare a wide range of products, including mobiles, laptops, and home appliances. The platform provides detailed insights and comparisons, enabling users to make well-informed purchase decisions with ease, focusing on convenience, user experience, and reliability in product evaluation.",
-      image:
-        "",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [
-        {
-          title: "NEXT JS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "TailWind Css",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "MongoDB",
-          href: "#",
-          disabled: "disabled"
-        }, {
-          title: "Express JS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "Node JS",
-          href: "#",
-          disabled: "disabled"
-        },
-      ],
-    },
-    {
-      title: "Company Website ",
-      dates: "2024",
-      location: "Chennai, Tamil Nadu",
-      description:
-        "Developed a professional website for a digital marketing company, showcasing services including digital marketing, website development, mobile app development, social media management, and SEO, aimed at enhancing online visibility and client engagement",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [
-        {
-          title: "NEXT JS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "TailWind Css",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "Strapi CMS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "Framer Motion",
-          href: "#",
-          disabled: "disabled"
-        },
-      ],
-    },
-    {
-      title: "Gold Landing Website",
-      dates: "2024",
-      location: "Chennai, Tamil Nadu",
-      description:
-        "Designed and developed a website for a gold transaction company, featuring a user-friendly form to securely collect customer details and streamline transactions, ensuring a seamless and efficient user experience.",
-      icon: "public",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/firstnet.png",
-      links: [
-        {
-          title: "NEXT JS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "TailWind Css",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "Emailjs",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "Framer Motion",
-          href: "#",
-          disabled: "disabled"
-        },
-      ],
-    },
-    {
-      title: "Candit",
-      dates: " 2024",
-      location: "Chennai, Tamil Nadu",
-      description:
-        "Developed 'Candit,' a dynamic social media platform featuring Gen Z-friendly elements and interactive fun games, designed to enhance user engagement and provide an entertaining, community-driven experience.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/developer-week.jpg",
-      links: [
-        {
-          title: "NEXT JS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "TailWind Css",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "CSS",
-          href: "#",
-          disabled: "disabled"
-        },
-        {
-          title: "Framer Motion",
-          href: "#",
-          disabled: "disabled"
-        },
-      ],
-    },
 
-  ],
 };

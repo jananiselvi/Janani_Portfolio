@@ -39,7 +39,6 @@ export const DATA = {
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/Work", icon: BriefcaseBusiness, label: "Work" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "j.jananiram@gmail.com",
@@ -133,7 +132,7 @@ export const DATA = {
     {
       title: "Tiffin Box: Meal Planning & Delivery Mobile App",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed 50+ high-fidelity mobile screens covering meal planning, child profiles, nutrition tracking, meal customization, ordering, and delivery tracking. Delivered the full design process: user flows, wireframes, interactive prototypes, and a reusable component library",
@@ -145,7 +144,7 @@ export const DATA = {
       links: [
         {
           type: "Design Link",
-          href: "https://www.figma.com/design/fZZe5ygAbnHMwcRmIKRyb4/Internship-projects?node-id=4-2&t=aHkeXhAEwJsdUf5F-1",
+          href: "https://www.figma.com/design/EJIOeLBJiBbjXiKH20tdQw/Tiffin-Box?node-id=1037-9478&t=e9VbadNL0MFzSj99-0",
           icon: <Icons.globe className="size-3" />,
         },
 
@@ -156,7 +155,7 @@ export const DATA = {
     {
       title: "HireNest: Job Discovery & Recruitment Mobile App",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed 40+ mobile screens for two user groups (candidates and recruiters), covering job discovery, applications, profiles, and hiring workflows. Developed user flows, wireframes, interactive prototypes, and reusable UI components to ensure scalability and consistency.",
@@ -168,7 +167,7 @@ export const DATA = {
       links: [
         {
           type: "Design Link",
-          href: "https://www.figma.com/design/fZZe5ygAbnHMwcRmIKRyb4/Internship-projects?node-id=4-2&t=aHkeXhAEwJsdUf5F-1",
+          href: "https://www.figma.com/design/R6vyoCS96HdsMkqZNRiEYk/Hirenest?node-id=3-2&p=f&t=waOmDoCiWG1gliwr-0",
           icon: <Icons.globe className="size-3" />,
         },
 
@@ -180,7 +179,7 @@ export const DATA = {
     {
       title: "Landing Page UI Design",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed responsive landing page sections, including hero banners, course discovery, navigation, and call-to-action (CTA) elements, to improve course discovery and enrollment flow. Applied visual hierarchy, typography, spacing, and brand guidelines to deliver a consistent, conversion-focused interface.",
@@ -192,7 +191,7 @@ export const DATA = {
       links: [
         {
           type: "Design Link",
-          href: "#",
+          href: "https://www.figma.com/design/zgeUyldHGkfW13iWHYx15L/Course-Landing-Page?node-id=2008-694&t=dSHHChRQuHq3sXIF-0",
           icon: <Icons.globe className="size-3" />,
         },
 
@@ -203,7 +202,7 @@ export const DATA = {
     {
       title: "DoctorCare: Doctor Appointment Booking Mobile App",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed mobile UI/UX for appointment booking and healthcare workflows, simplifying the patient journey from search to confirmation. Created user flows, wireframes, high-fidelity screens, reusable components, and interactive prototypes for stakeholder review.",
@@ -215,7 +214,7 @@ export const DATA = {
       links: [
         {
           type: "Design Link",
-          href: "https://www.figma.com/design/fZZe5ygAbnHMwcRmIKRyb4/Internship-projects?node-id=4-2&t=aHkeXhAEwJsdUf5F-1",
+          href: "https://www.figma.com/design/jrdIXd1CiJ3zXSSryPuDij/Doctorcare?node-id=4006-260&t=CdB1Mn4Mdtd9z19I-0",
           icon: <Icons.globe className="size-3" />,
         },
 
@@ -226,7 +225,7 @@ export const DATA = {
     {
       title: "Hakshatra: E-commerce Website Design",
       href: "#",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed responsive e-commerce layouts for desktop, tablet, and mobile, focused on product presentation and intuitive navigation. Built consistent UI components and applied responsive design principles to maintain brand identity and improve the shopping experience.",
@@ -239,7 +238,7 @@ export const DATA = {
       links: [
         {
           type: "Design Link",
-          href: "https://www.figma.com/design/fZZe5ygAbnHMwcRmIKRyb4/Internship-projects?node-id=4-2&t=aHkeXhAEwJsdUf5F-1",
+          href: "https://www.figma.com/design/fZZe5ygAbnHMwcRmIKRyb4/Hakshatra-website?node-id=0-1&p=f&t=0tCj5tP2gZi86Dqy-0",
           icon: <Icons.globe className="size-3" />,
         },
 

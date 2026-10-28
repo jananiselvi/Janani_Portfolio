@@ -76,7 +76,7 @@ export const DATA = {
       location: "Chennai, TamilNadu",
       title: "UI/UX and Graphic Designer(Intership) ",
       logoUrl: "/CWLogo.jpg.jpeg",
-      start: "JUN 2026",
+      start: "MAY 2026",
       end: "Present",
       description: "UI/UX Designer & Graphic Design Intern — Corpswell | 6 Months",
 
